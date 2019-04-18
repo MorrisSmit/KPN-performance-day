@@ -4,6 +4,13 @@ body
 	text-align:left;
 }
 
+p{
+	font-family: "Segoe UI"
+	font-size: 13pt;
+	margin-left: 10px;
+	margin right: 10px;
+}
+
 profilePicture{
 
 }
@@ -17,5 +24,5 @@ bussinesMarket{
 }
 
 consumerMarket{
-	
+
 }
